@@ -1,6 +1,13 @@
 # signal
 
-A new Flutter project.
+A flutter application which uses stream and firebase for chatting and user authentication respectively.
+
+Features like
+
+- Chatting
+- Video call
+- Audio call
+
 
 ## Getting Started
 
